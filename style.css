@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
 :root {
     --bgColor: white;
-    --accentColor:#009688;
-    --accentHoverColor:#005a4f;
-    --font: 'Roboto', sans-serif;
+    --accentColor:#14be04;
+    --accentHoverColor:#0d7e03;
+    --font: 'Dosis', sans-serif;
 }
 
 body{
